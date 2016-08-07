@@ -1,0 +1,7 @@
+CHN- G:0 S:1 B:2 T:3
+BEL- G:1 S:0 B:0 T:1
+USA- G:1 S:0 B:0 T:1
+VIE- G:1 S:0 B:0 T:1
+BRA- G:0 S:1 B:0 T:1
+DEN- G:0 S:1 B:0 T:1
+POL- G:0 S:0 B:1 T:1
